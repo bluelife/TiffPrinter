@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple File Manager</string>
+    <string name="app_launcher_name">File Manager</string>
+    <string name="press_back_again">Premi di nuovo indietro per uscire</string>
+    <string name="no_app_found">Nessuna app disponibile per aprire questo tipo di file</string>
+    <string name="go_to_home_folder">Vai alla cartella home</string>
+    <string name="set_as_home_folder">Imposta come cartella home</string>
+    <string name="home_folder_updated">Cartella home aggiornata</string>
+
+    <!-- Compression -->
+    <string name="compress">Comprimi</string>
+    <string name="decompress">Decomprimi</string>
+    <string name="compress_as">Comprimi come</string>
+    <string name="compressing">Compressione…</string>
+    <string name="decompressing">Decompressione…</string>
+    <string name="compression_successful">Compressione completata</string>
+    <string name="decompression_successful">Decompressione completata</string>
+    <string name="compressing_failed">Compressione fallita</string>
+    <string name="decompressing_failed">Decompressione fallita</string>
+
+    <!-- Favorites -->
+    <string name="favorites">Preferiti</string>
+    <string name="add_to_favorites">Aggiungi ai preferiti</string>
+    <string name="remove_from_favorites">Rimuovi dai preferiti</string>
+    <string name="manage_favorites">Gestisci i preferiti</string>
+    <string name="go_to_favorite">Vai al preferito</string>
+    <string name="favorites_activity_placeholder">Puoi aggiungere le cartelle usate frequentemente ai preferiti per un rapido accesso da qualsiasi posizione.</string>
+
+    <!-- File Editor -->
+    <string name="file_editor">File Editor</string>
+
+    <!-- Settings -->
+    <string name="enable_root_access">Abilita accesso root</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Un semplice file manager per sfogliare e modificare file e cartelle.</string>
+    <string name="app_long_description">
+        Può anche essere usato per sfogliare file di sistema e della scheda SD. Puoi facilmente rinominare, copiare, spostare, eliminare e condividere qualsiasi cosa tu voglia.
+
+        Non contiene pubblicità e non chiede autorizzazioni non necessarie. È completamente opensource, offre anche un tema scuro.
+
+        Questa app è solo una piccola parte di una grande serie di altre app. Puoi trovarle tutte su http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

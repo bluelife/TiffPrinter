@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple File Manager</string>
+    <string name="app_launcher_name">Filhanterare</string>
+    <string name="press_back_again">Tryck på bakåt igen för att avsluta</string>
+    <string name="no_app_found">Ingen app är tillgänglig för att öppna denna typ av fil</string>
+    <string name="go_to_home_folder">Gå till hemmappen</string>
+    <string name="set_as_home_folder">Ange som hemmapp</string>
+    <string name="home_folder_updated">Hemmappen har uppdaterats</string>
+
+    <!-- Compression -->
+    <string name="compress">Komprimera</string>
+    <string name="decompress">Packa upp</string>
+    <string name="compress_as">Komprimera som</string>
+    <string name="compressing">Komprimerar…</string>
+    <string name="decompressing">Packar upp…</string>
+    <string name="compression_successful">Komprimeringen lyckades</string>
+    <string name="decompression_successful">Uppackningen lyckades</string>
+    <string name="compressing_failed">Komprimeringen misslyckades</string>
+    <string name="decompressing_failed">Uppackningen misslyckades</string>
+
+    <!-- Favorites -->
+    <string name="favorites">Favoriter</string>
+    <string name="add_to_favorites">Lägg till i favoriter</string>
+    <string name="remove_from_favorites">Ta bort från favoriter</string>
+    <string name="manage_favorites">Hantera favoriter</string>
+    <string name="go_to_favorite">Gå till favorit</string>
+    <string name="favorites_activity_placeholder">Du kan lägga till ofta använda mappar i favoriter för enkel åtkomst överallt.</string>
+
+    <!-- File Editor -->
+    <string name="file_editor">File Editor</string>
+
+    <!-- Settings -->
+    <string name="enable_root_access">Aktivera rotåtkomst</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">En enkel filhanterare för att bläddra och redigera filer och kataloger.</string>
+    <string name="app_long_description">
+        Kan också användas till att bläddra i rot-filer och innehållet på SD-kort. Du kan enkelt döpa om, kopiera, flytta, ta bort och dela det du vill.
+
+        Innehåller ingen reklam eller onödiga behörigheter. Det är helt och hållet opensource, har anpassningsbara färger.
+
+        Detta är bara en app i en serie av appar. Du hittar resten av dem här http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

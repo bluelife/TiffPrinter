@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.simplemobiletools.filemanager">
+
+    <application>
+        <activity android:name=".activities.MainActivity"/>
+        <activity android:name=".activities.PdfViewActivity" />
+        <activity android:name=".activities.ImageViewActivity" />
+        <activity android:name=".activities.TifViewActivity" />
+    </application>
+</manifest>

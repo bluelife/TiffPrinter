@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basit Dosya Yöneticisi</string>
+    <string name="app_launcher_name">Dosya Yöneticisi</string>
+    <string name="press_back_again">Çıkmak için tekrar basın</string>
+    <string name="no_app_found">No app for opening this type of file is available</string>
+    <string name="go_to_home_folder">Go to home folder</string>
+    <string name="set_as_home_folder">Set as home folder</string>
+    <string name="home_folder_updated">Home folder updated</string>
+
+    <!-- Compression -->
+    <string name="compress">Compress</string>
+    <string name="decompress">Decompress</string>
+    <string name="compress_as">Compress as</string>
+    <string name="compressing">Compressing…</string>
+    <string name="decompressing">Decompressing…</string>
+    <string name="compression_successful">Compression successful</string>
+    <string name="decompression_successful">Decompression successful</string>
+    <string name="compressing_failed">Compressing failed</string>
+    <string name="decompressing_failed">Decompressing failed</string>
+
+    <!-- Favorites -->
+    <string name="favorites">Favoriler</string>
+    <string name="add_to_favorites">Favorilere ekle</string>
+    <string name="remove_from_favorites">Favorilerden kaldır</string>
+    <string name="manage_favorites">Manage favorites</string>
+    <string name="go_to_favorite">Go to favorite</string>
+    <string name="favorites_activity_placeholder">You can add frequently used folders to favorites for easy access from anywhere.</string>
+
+    <!-- File Editor -->
+    <string name="file_editor">File Editor</string>
+
+    <!-- Settings -->
+    <string name="enable_root_access">Enable root access</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Dosyaları ve dizinleri tarama ve düzenlemek için kullanılan bir dosya gezgini.</string>
+    <string name="app_long_description">
+        Kök dosyalara ve SD kart içeriğine göz atmak için de kullanılabilir. İstediğiniz her şeyi yeniden adlandırabilir, kopyalayabilir, taşıyabilir, silebilir ve paylaşabilirsiniz.
+
+        Reklam içermeyen veya gereksiz izinler. Tamamen açık kaynaklı, Karanlık bir tema da sunuyor.
+
+        Bu uygulama, daha büyük bir uygulama serisinden sadece bir parça. Geri kalanını şu adresten bulabilirsiniz http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>

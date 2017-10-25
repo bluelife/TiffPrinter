@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/cab_properties"
+        android:icon="@drawable/ic_info"
+        android:title="@string/properties"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/cab_convert"
+        android:icon="@drawable/ic_rename"
+        android:title="@string/title_file_convert"
+        app:showAsAction="ifRoom"/>
+
+</menu>
